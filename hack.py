@@ -1,7 +1,7 @@
 
 
 
-#hack CAPTCHA https://elearning.rad.gov.tw/fet/home/courses
+#hack CAPTCHA
 
 from selenium import webdriver
 import pyscreenshot as ImageGrab
